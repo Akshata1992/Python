@@ -1,3 +1,3 @@
 # Python_Programming
 
-This repo contains practise projects to enhance python programming skills
+This repo contains practise projects worked on to enhance python programming skills
