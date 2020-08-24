@@ -1,3 +1,2 @@
-# Python_Programming
-
-This repo contains practise projects worked on to enhance python programming skills
+# Python_Programming and OOPs concepts
+Practise projects worked on Python and it's oops concepts to enhance programming skills
